@@ -6,7 +6,7 @@ DOM XSS Detector is a lightweight static analysis tool designed to identify pote
 
 
 
-It scans JavaScript files for \*\*dangerous source-to-sink flows\*\* commonly used in DOM XSS attacks.
+It scans JavaScript files for **dangerous source-to-sink flows** commonly used in DOM XSS attacks.
 
 
 
@@ -32,11 +32,11 @@ This tool is intended for:
 
 
 
-\- Detects common \*\*DOM XSS Sources\*\*
+\- Detects common **DOM XSS Sources**
 
-\- Detects dangerous \*\*DOM XSS Sinks\*\*
+\- Detects dangerous **DOM XSS Sinks**
 
-\- Highlights potential \*\*source → sink flows\*\*
+\- Highlights potential **source → sink flows**
 
 \- Supports scanning:
 
@@ -58,7 +58,7 @@ This tool is intended for:
 
 
 
-The tool searches for patterns where \*\*user-controllable sources\*\* may flow into \*\*dangerous sinks\*\*.
+The tool searches for patterns where **user-controllable sources** may flow into **dangerous sinks**.
 
 
 
@@ -120,7 +120,7 @@ insertAdjacentHTML
 
 
 
-If both a source and sink appear in suspicious contexts, the tool highlights them as potential \*\*DOM XSS candidates\*\*.
+If both a source and sink appear in suspicious contexts, the tool highlights them as potential **DOM XSS candidates**.
 
 
 
