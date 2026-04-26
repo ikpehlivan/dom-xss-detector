@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="400" alt="DOM XSS Detector Logo">
+</p>
+
 # DOM XSS Detector
 
 DOM XSS Detector is a lightweight static analysis tool designed to identify potential DOM-based Cross-Site Scripting (DOM XSS) vulnerabilities in JavaScript code.
