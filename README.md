@@ -69,6 +69,7 @@ cd dom-xss-detector
 ```
 # Usage
 
+```
 Scan a single JavaScript file:
 python domxss.py app.js
 
@@ -77,6 +78,7 @@ python domxss.py ./js/
 
 Example Output
 Scanning: app.js
+```
 
 ----------------------------------------
 ```
